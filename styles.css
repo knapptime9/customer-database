@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+}
+
+#directory_mainContainer{
+  display: flex;
+  flex-flow: row wrap;
+  flex: 1 1 auto;
+}
+
+.employee_entryBox{
+  display: flex;
+  flex-flow: column nowrap;
+
+}
